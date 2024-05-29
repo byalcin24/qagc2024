@@ -1,6 +1,6 @@
 # qagc2024
 
-### Setup
+## Setup
 Tested with Python 3.10.11
 
 Follow these steps to set up the project:
