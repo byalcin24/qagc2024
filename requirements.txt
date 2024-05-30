@@ -2,3 +2,4 @@ jupyter
 qiskit
 qiskit-nature
 numpy
+matplotlib
