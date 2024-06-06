@@ -11,3 +11,8 @@ Follow these steps to set up the project:
    source .venv/bin/activate
    pip install -r requirements.txt
    ```
+   
+2. **Run the project**
+   ```bash
+   jupyter notebook app/src/BenchmarkVQE.ipynb
+   ```
