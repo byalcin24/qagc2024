@@ -4,3 +4,5 @@ qiskit-nature
 numpy
 matplotlib
 juliacall
+openfermion
+quri_parts

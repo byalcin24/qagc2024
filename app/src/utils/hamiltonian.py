@@ -1,4 +1,4 @@
-from app.src.utils.challange_2024 import problem_hamiltonian
+from challange_2024 import problem_hamiltonian
 
 n_qubits = 28
 
