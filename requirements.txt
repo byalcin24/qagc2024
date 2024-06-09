@@ -3,3 +3,4 @@ qiskit
 qiskit-nature
 numpy
 matplotlib
+juliacall
