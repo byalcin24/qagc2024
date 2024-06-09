@@ -14,5 +14,5 @@ Follow these steps to set up the project:
    
 2. **Run the project**
    ```bash
-   jupyter notebook app/src/BenchmarkVQE.ipynb
+   jupyter notebook app/src/benchmark_vqe.ipynb
    ```
