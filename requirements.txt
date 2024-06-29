@@ -3,6 +3,7 @@ qiskit==1.1.0
 qiskit-aer
 qiskit-nature
 numpy
+pylatexenc
 matplotlib
 juliacall~=0.9.20
 openfermion~=1.6.1
