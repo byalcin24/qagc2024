@@ -1,8 +1,11 @@
 jupyter
-qiskit
+qiskit==1.1.0
+qiskit-aer
 qiskit-nature
 numpy
+pylatexenc
 matplotlib
-juliacall
-openfermion
+juliacall~=0.9.20
+openfermion~=1.6.1
 quri_parts
+spsa
