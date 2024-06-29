@@ -7,3 +7,4 @@ matplotlib
 juliacall
 openfermion
 quri_parts
+spsa
