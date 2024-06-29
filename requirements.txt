@@ -1,5 +1,6 @@
 jupyter
 qiskit==1.1.0
+qiskit-aer
 qiskit-nature
 numpy
 matplotlib
