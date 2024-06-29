@@ -3,6 +3,7 @@ qiskit==1.1.0
 qiskit-aer
 qiskit-nature
 numpy
+ipynb
 pylatexenc
 matplotlib
 juliacall~=0.9.20
