@@ -1,5 +1,6 @@
 # qagc2024
 
+Early code for the QunaSys QAGC hackathon: https://www.qagc.org
 ## Setup
 
 Tested with Python 3.10.11
