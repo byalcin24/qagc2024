@@ -23,3 +23,9 @@ Follow these steps to set up the project:
 * https://docs.quantum.ibm.com/api/qiskit/0.40/qiskit.algorithms.optimizers.QNSPSA <br>
 * https://docs.quantum.ibm.com/api/qiskit/0.40/qiskit.algorithms.minimum_eigensolvers.AdaptVQE <br>
 * https://learning.quantum.ibm.com/tutorial/variational-quantum-eigensolver
+* https://github.com/Qiskit
+* https://github.com/mayhallgroup/adapt-vqe
+##### Some papers we were inspired from for our project are the following:
+* https://www.nature.com/articles/s41467-019-10988-2
+* https://arxiv.org/abs/1909.02108
+* https://arxiv.org/abs/2112.14077
